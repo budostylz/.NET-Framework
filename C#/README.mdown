@@ -2,5 +2,15 @@
 
 https://msdn.microsoft.com/en-us/library/618ayhy6(v=vs.140).aspx
 
+##Code Snippets (C#)
 
+https://msdn.microsoft.com/en-us/library/f7d3wz0k(v=vs.90).aspx
+
+##.NET Framework Class Library
+
+https://msdn.microsoft.com/en-us/library/gg145045(v=vs.110).aspx
+
+##Common .NET Libraries for Developers
+
+https://msdn.microsoft.com/en-us/library/ms973806.aspx
 
