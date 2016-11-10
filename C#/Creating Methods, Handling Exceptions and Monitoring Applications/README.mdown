@@ -1,6 +1,17 @@
-##Named and Optional Arguments (C# Programming Guide)
+#Named and Optional Arguments (C# Programming Guide)
 
 https://msdn.microsoft.com/en-us/library/dd264739.aspx
+
+-----------------------------------------------------------------
+
+Optional Parameters reduce method overloads
+Name Parameters disregard argument ordinal positions
+
+-----------------------------------------------------------------
+
+##out (C# Reference) (This Allows You to Return Multiple Objects or Variables from a Method)
+
+https://msdn.microsoft.com/en-us/library/t3c3bfhx.aspx
 
 ##Exception Handling (C# Programming Guide)
 
@@ -37,3 +48,11 @@ https://msdn.microsoft.com/en-us/library/system.data.optimisticconcurrencyexcept
 ##UpdateException Class
 
 https://msdn.microsoft.com/en-us/library/system.data.updateexception(v=vs.110).aspx
+
+##ref (C# Reference)
+
+https://msdn.microsoft.com/en-us/library/14akc2c7.aspx
+
+##throw (C# Reference)
+
+https://msdn.microsoft.com/en-us/library/1ah5wsex.aspx
