@@ -4,7 +4,7 @@ https://msdn.microsoft.com/en-us/library/dd264739.aspx
 
 -----------------------------------------------------------------
 
-Optional Parameters reduce method overloads
+Optional Parameters reduce the number  method overloads
 
 Name Parameters disregard argument ordinal positions
 
