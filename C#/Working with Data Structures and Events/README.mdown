@@ -30,3 +30,7 @@ https://msdn.microsoft.com/en-us/library/bb397933.aspx
 ##Using LINQ to SharePoint
 
 https://msdn.microsoft.com/en-us/library/office/ee535491(v=office.14).aspx
+
+##Handling and Raising Events
+
+https://msdn.microsoft.com/en-us/library/edzehd2t(v=vs.110).aspx
