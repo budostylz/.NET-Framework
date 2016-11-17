@@ -2,6 +2,7 @@
 
 https://msdn.microsoft.com/en-us/library/zw4w595w(v=vs.110).aspx
 
+##Recommended number of projects in Visual Studio Solution
 
-
+http://stackoverflow.com/questions/529907/recommended-number-of-projects-in-visual-studio-solution
 
