@@ -1,0 +1,8 @@
+##Classes (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/x9afc042.aspx
+
+##Value Types and Reference Types
+
+https://msdn.microsoft.com/en-us/library/t63sy5hs.aspx
+
