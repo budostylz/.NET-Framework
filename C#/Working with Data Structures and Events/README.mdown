@@ -11,6 +11,9 @@ https://msdn.microsoft.com/en-us/library/sbbt4032.aspx
 
 https://msdn.microsoft.com/en-us/library/saxz13w4.aspx
 
+1. Classes are stored on the heap, while structures are stored on the stack.
+2. Classes require invocation of the garbage collector to free up memory they use.
+
 ##Indexers (C# Programming Guide)
 
 https://msdn.microsoft.com/en-us/library/6x16t2tx.aspx
@@ -34,3 +37,23 @@ https://msdn.microsoft.com/en-us/library/office/ee535491(v=office.14).aspx
 ##Handling and Raising Events
 
 https://msdn.microsoft.com/en-us/library/edzehd2t(v=vs.110).aspx
+
+
+-----------------------Some Collection Classes -------------------------------------
+
+##NameValueCollection Class
+
+https://msdn.microsoft.com/en-us/library/system.collections.specialized.namevaluecollection(v=vs.110).aspx
+
+##SortedList Class
+
+https://msdn.microsoft.com/en-us/library/system.collections.sortedlist(v=vs.110).aspx
+
+##Hashtable Class
+
+https://msdn.microsoft.com/en-us/library/system.collections.hashtable(v=vs.110).aspx
+
+##ArrayList Class
+
+https://msdn.microsoft.com/en-us/library/system.collections.arraylist(v=vs.110).aspx
+
