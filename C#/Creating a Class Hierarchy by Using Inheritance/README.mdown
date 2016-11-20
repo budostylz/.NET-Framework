@@ -1,0 +1,29 @@
+##Inheritance (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/ms173149.aspx
+
+##Abstract and Sealed Classes and Class Members (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/ms173150.aspx
+
+##virtual (C# Reference)
+
+https://msdn.microsoft.com/en-us/library/9fkccyh4.aspx
+
+##base (C# Reference)
+
+https://msdn.microsoft.com/en-us/library/hfw7t1ce.aspx
+
+##How to: Create User-Defined Exceptions
+
+https://msdn.microsoft.com/en-us/library/87cdya3t(v=vs.110).aspx
+
+##Generic Classes (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/sz6zd40f.aspx
+
+
+
+
+
+

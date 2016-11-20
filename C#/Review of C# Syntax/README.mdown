@@ -1,0 +1,18 @@
+##Fields (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/ms173118.aspx
+
+##Properties (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx
+
+
+
+
+
+
+
+
+
+
+
