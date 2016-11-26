@@ -1,0 +1,27 @@
+##Entity Data Model
+
+https://msdn.microsoft.com/en-us/library/ee382825(v=vs.110).aspx
+
+##ADO.NET
+
+https://msdn.microsoft.com/en-us/library/e80y5yhx(v=vs.110).aspx
+
+##Accessing data in Visual Studio
+
+https://msdn.microsoft.com/en-us/library/wzabh8c4(v=vs.140).aspx
+
+##Create a simple data application by using ADO.NET
+
+https://msdn.microsoft.com/en-us/library/jj943772.aspx
+
+##LINQ: .NET Language-Integrated Query
+
+https://msdn.microsoft.com/en-us/library/bb308959.aspx
+
+##Getting Started with LINQ in C#
+
+https://msdn.microsoft.com/en-us/library/bb397933.aspx
+
+##Lambda Expressions (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/bb397687.aspx

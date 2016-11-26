@@ -46,6 +46,10 @@ https://msdn.microsoft.com/en-us/library/2549tw02.aspx
 
 https://msdn.microsoft.com/en-us/library/ms173121.aspx
 
+##Partial Classes and Methods (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/wa80x488.aspx
+
 
 
 
