@@ -1,4 +1,4 @@
-####Classes (C# Programming Guide)
+##Classes (C# Programming Guide)
 
 https://msdn.microsoft.com/en-us/library/x9afc042.aspx
 
@@ -17,6 +17,10 @@ https://msdn.microsoft.com/en-us/library/ms173156.aspx
 ##IComparable Interface
 
 https://msdn.microsoft.com/en-us/library/system.icomparable(v=vs.110).aspx
+
+##IEnumerable Interface
+
+https://msdn.microsoft.com/en-us/library/system.collections.ienumerable(v=vs.110).aspx
 
 ##Generics (C# Programming Guide)
 
@@ -50,8 +54,6 @@ https://msdn.microsoft.com/en-us/library/ms173121.aspx
 
 https://msdn.microsoft.com/en-us/library/wa80x488.aspx
 
-##IEnumerable Interface
 
-https://msdn.microsoft.com/en-us/library/system.collections.ienumerable(v=vs.110).aspx
 
 
