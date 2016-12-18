@@ -37,3 +37,7 @@ https://msdn.microsoft.com/en-us/library/ee462243.aspx
 ##Data Binding How-to Topics
 
 https://msdn.microsoft.com/en-us/library/ms752039(v=vs.110).aspx
+
+##Windows.UI.Xaml classes
+
+https://msdn.microsoft.com/en-us/library/windows/apps/jj203556.aspx
