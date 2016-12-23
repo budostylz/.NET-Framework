@@ -13,3 +13,11 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/ms680573(v=vs.85).aspx
 ##Walkthrough: Office Programming (C# and Visual Basic)
 
 https://msdn.microsoft.com/en-us/library/ee342218.aspx
+
+##Life Cycle of an Object
+
+https://msdn.microsoft.com/en-us/library/windows/hardware/ff554294(v=vs.85).aspx
+
+##IDisposable Interface
+
+https://msdn.microsoft.com/en-us/library/system.idisposable(v=vs.110).aspx
