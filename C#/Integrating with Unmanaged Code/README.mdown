@@ -1,0 +1,15 @@
+##Walkthrough: Creating and Using Dynamic Objects (C# and Visual Basic)
+
+https://msdn.microsoft.com/en-us/library/ee461504.aspx
+
+##Dynamic Language Runtime Overview
+
+https://msdn.microsoft.com/en-us/library/dd233052(v=vs.110).aspx
+
+##Component Object Model (COM)
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms680573(v=vs.85).aspx
+
+##Walkthrough: Office Programming (C# and Visual Basic)
+
+https://msdn.microsoft.com/en-us/library/ee342218.aspx
