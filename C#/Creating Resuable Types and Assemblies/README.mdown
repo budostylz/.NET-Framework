@@ -1,0 +1,43 @@
+##Reflection in the .NET Framework
+
+https://msdn.microsoft.com/en-us/library/f7ykdhsy(v=vs.110).aspx
+
+##System.Reflection Namespace
+
+https://msdn.microsoft.com/en-us/library/system.reflection(v=vs.110).aspx
+
+##Attributes (C#)
+
+https://msdn.microsoft.com/en-us/library/mt653979.aspx
+
+##Attribute Class
+
+https://msdn.microsoft.com/en-us/library/system.attribute(v=vs.110).aspx
+
+##Writing Custom Attributes
+
+https://msdn.microsoft.com/en-us/library/84c42s56(v=vs.110).aspx
+
+##Using the CodeDOM
+
+https://msdn.microsoft.com/en-us/library/y2k85ax6(v=vs.110).aspx
+
+##Common Intermediate Language
+
+https://en.wikipedia.org/wiki/Common_Intermediate_Language
+
+##What Is Managed Code?
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/bb318664(v=vs.85).aspx
+
+##Ildasm.exe (IL Disassembler)
+
+https://msdn.microsoft.com/en-us/library/f7dy01k1(v=vs.110).aspx
+
+##Global Assembly Cache
+
+https://msdn.microsoft.com/en-us/library/yf1d93sz(v=vs.110).aspx
+
+##How to: Install an Assembly into the Global Assembly Cache
+
+https://msdn.microsoft.com/en-us/library/dkkx7f79(v=vs.110).aspx
