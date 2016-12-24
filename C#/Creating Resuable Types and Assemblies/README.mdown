@@ -41,3 +41,7 @@ https://msdn.microsoft.com/en-us/library/yf1d93sz(v=vs.110).aspx
 ##How to: Install an Assembly into the Global Assembly Cache
 
 https://msdn.microsoft.com/en-us/library/dkkx7f79(v=vs.110).aspx
+
+##Assembly Versioning
+
+https://msdn.microsoft.com/en-us/library/51ket42z(v=vs.110).aspx
