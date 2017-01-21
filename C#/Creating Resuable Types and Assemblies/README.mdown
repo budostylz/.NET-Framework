@@ -1,3 +1,4 @@
+
 ##Reflection in the .NET Framework
 
 https://msdn.microsoft.com/en-us/library/f7ykdhsy(v=vs.110).aspx
@@ -45,3 +46,10 @@ https://msdn.microsoft.com/en-us/library/dkkx7f79(v=vs.110).aspx
 ##Assembly Versioning
 
 https://msdn.microsoft.com/en-us/library/51ket42z(v=vs.110).aspx
+
+##How to find public key token for a .NET DLL or assembly
+
+Use the following command, 
+
+sn –T myDLL.dll 
+
