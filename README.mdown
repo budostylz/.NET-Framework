@@ -6,3 +6,6 @@ https://msdn.microsoft.com/en-us/library/zw4w595w(v=vs.110).aspx
 
 http://stackoverflow.com/questions/529907/recommended-number-of-projects-in-visual-studio-solution
 
+##Code Analysis for Managed Code Overview
+
+https://msdn.microsoft.com/en-us/library/3z0aeatx(v=vs.110).aspx
