@@ -9,3 +9,7 @@ http://stackoverflow.com/questions/529907/recommended-number-of-projects-in-visu
 ##Code Analysis for Managed Code Overview
 
 https://msdn.microsoft.com/en-us/library/3z0aeatx(v=vs.110).aspx
+
+##Difference between Build Solution, Rebuild Solution, and Clean Solution in Visual Studio?
+
+http://stackoverflow.com/questions/3095901/difference-between-build-solution-rebuild-solution-and-clean-solution-in-visua
