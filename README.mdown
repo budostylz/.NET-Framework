@@ -13,3 +13,7 @@ https://msdn.microsoft.com/en-us/library/3z0aeatx(v=vs.110).aspx
 ##Difference between Build Solution, Rebuild Solution, and Clean Solution in Visual Studio?
 
 http://stackoverflow.com/questions/3095901/difference-between-build-solution-rebuild-solution-and-clean-solution-in-visua
+
+##How to: Enable and Disable Automatic Binding Redirection
+
+https://msdn.microsoft.com/en-us/library/2fc472t2(v=vs.110).aspx
