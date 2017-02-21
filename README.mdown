@@ -17,3 +17,7 @@ http://stackoverflow.com/questions/3095901/difference-between-build-solution-reb
 ##How to: Enable and Disable Automatic Binding Redirection
 
 https://msdn.microsoft.com/en-us/library/2fc472t2(v=vs.110).aspx
+
+##Boxing and Unboxing (C# Programming Guide)
+
+https://msdn.microsoft.com/en-us/library/yz2be5wk.aspx
