@@ -21,3 +21,7 @@ https://github.com/budostylz/.NET-Framework/tree/master/C%23/Creating%20Classes%
 ##Recursion
 
 https://www.dotnetperls.com/recursion
+
+##Dispose Pattern
+
+https://msdn.microsoft.com/en-us/library/b1yfkh5e(v=vs.110).aspx
