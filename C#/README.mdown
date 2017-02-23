@@ -25,3 +25,7 @@ https://www.dotnetperls.com/recursion
 ##Dispose Pattern
 
 https://msdn.microsoft.com/en-us/library/b1yfkh5e(v=vs.110).aspx
+
+##Code Analysis for Managed Code Overview
+
+https://msdn.microsoft.com/en-us/library/3z0aeatx.aspx?f=255&MSPPError=-2147217396
