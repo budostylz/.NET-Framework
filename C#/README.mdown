@@ -1,35 +1,35 @@
- ##C# Reference
+ ## C# Reference
 
 https://msdn.microsoft.com/en-us/library/618ayhy6(v=vs.140).aspx
 
-##Code Snippets (C#)
+## Code Snippets (C#)
 
 https://msdn.microsoft.com/en-us/library/f7d3wz0k(v=vs.90).aspx
 
-##.NET Framework Class Library
+## .NET Framework Class Library
 
 https://msdn.microsoft.com/en-us/library/gg145045(v=vs.110).aspx
 
-##Common .NET Libraries for Developers
+## Common .NET Libraries for Developers
 
 https://msdn.microsoft.com/en-us/library/ms973806.aspx
 
-##Follow --> Unit Test Basics 
+## Follow --> Unit Test Basics 
 
 https://github.com/budostylz/.NET-Framework/tree/master/C%23/Creating%20Classes%20and%20Implementing%20Type-safe%20Collections/Demos/Testing%20Classes
 
-##Recursion
+## Recursion
 
 https://www.dotnetperls.com/recursion
 
-##Dispose Pattern
+## Dispose Pattern
 
 https://msdn.microsoft.com/en-us/library/b1yfkh5e(v=vs.110).aspx
 
-##Code Analysis for Managed Code Overview
+## Code Analysis for Managed Code Overview
 
 https://msdn.microsoft.com/en-us/library/3z0aeatx.aspx?f=255&MSPPError=-2147217396
 
-##Microsoft.VisualStudio.TestTools.UnitTesting Namespace
+## Microsoft.VisualStudio.TestTools.UnitTesting Namespace
 
 https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting(v=vs.120).aspx
