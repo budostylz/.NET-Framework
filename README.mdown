@@ -1,23 +1,23 @@
-##Overview of the .NET Framework
+## Overview of the .NET Framework
 
 https://msdn.microsoft.com/en-us/library/zw4w595w(v=vs.110).aspx
 
-##Recommended number of projects in Visual Studio Solution
+## Recommended number of projects in Visual Studio Solution
 
 http://stackoverflow.com/questions/529907/recommended-number-of-projects-in-visual-studio-solution
 
-##Code Analysis for Managed Code Overview
+## Code Analysis for Managed Code Overview
 
 https://msdn.microsoft.com/en-us/library/3z0aeatx(v=vs.110).aspx
 
-##Difference between Build Solution, Rebuild Solution, and Clean Solution in Visual Studio?
+## Difference between Build Solution, Rebuild Solution, and Clean Solution in Visual Studio?
 
 http://stackoverflow.com/questions/3095901/difference-between-build-solution-rebuild-solution-and-clean-solution-in-visua
 
-##How to: Enable and Disable Automatic Binding Redirection
+## How to: Enable and Disable Automatic Binding Redirection
 
 https://msdn.microsoft.com/en-us/library/2fc472t2(v=vs.110).aspx
 
-##Boxing and Unboxing (C# Programming Guide)
+## Boxing and Unboxing (C# Programming Guide)
 
 https://msdn.microsoft.com/en-us/library/yz2be5wk.aspx
