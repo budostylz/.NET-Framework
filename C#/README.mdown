@@ -33,3 +33,7 @@ https://msdn.microsoft.com/en-us/library/3z0aeatx.aspx?f=255&MSPPError=-21472173
 ## Microsoft.VisualStudio.TestTools.UnitTesting Namespace
 
 https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unittesting(v=vs.120).aspx
+ 
+## How to: Redirect Users to Another Page
+
+https://msdn.microsoft.com/en-us/library/540y83hx.aspx
