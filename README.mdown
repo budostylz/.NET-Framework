@@ -25,3 +25,7 @@ https://msdn.microsoft.com/en-us/library/yz2be5wk.aspx
 ## Read Excel Files Using Open XML SDK In ASP.NET C#
 
 http://www.c-sharpcorner.com/article/read-excel-files-using-open-xml-sdk-in-asp-net-c-sharp/
+
+## How do I add a whole folder to Visual Studio Team Services (was TFS Online)
+
+https://stackoverflow.com/questions/35481676/how-do-i-add-a-whole-folder-to-visual-studio-team-services-was-tfs-online
