@@ -29,3 +29,7 @@ http://www.c-sharpcorner.com/article/read-excel-files-using-open-xml-sdk-in-asp-
 ## How do I add a whole folder to Visual Studio Team Services (was TFS Online)
 
 https://stackoverflow.com/questions/35481676/how-do-i-add-a-whole-folder-to-visual-studio-team-services-was-tfs-online
+
+## How to read and write Excel cells with OpenXML and C#
+
+http://fczaja.blogspot.com/2013/05/how-to-read-and-write-excel-cells-with.html
