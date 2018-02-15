@@ -37,3 +37,7 @@ http://fczaja.blogspot.com/2013/05/how-to-read-and-write-excel-cells-with.html
 ## Why is myString.IsNullOrEmpty() not built into .Net?
 
 https://stackoverflow.com/questions/14196593/why-is-mystring-isnullorempty-not-built-into-net
+
+## MemoryStream
+
+http://net-informations.com/q/faq/memory.html
