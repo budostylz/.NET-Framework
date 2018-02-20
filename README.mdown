@@ -41,3 +41,7 @@ https://stackoverflow.com/questions/14196593/why-is-mystring-isnullorempty-not-b
 ## MemoryStream
 
 http://net-informations.com/q/faq/memory.html
+
+## LINQ query examples
+
+https://msdn.microsoft.com/en-us/library/gg509017.aspx
