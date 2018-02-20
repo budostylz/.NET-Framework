@@ -45,3 +45,7 @@ http://net-informations.com/q/faq/memory.html
 ## LINQ query examples
 
 https://msdn.microsoft.com/en-us/library/gg509017.aspx
+
+## How to: Query an ArrayList with LINQ (C#)
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/how-to-query-an-arraylist-with-linq
