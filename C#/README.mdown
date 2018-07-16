@@ -41,3 +41,7 @@ https://msdn.microsoft.com/en-us/library/540y83hx.aspx
 ## Types of Classes in C#
 
 https://www.c-sharpcorner.com/UploadFile/0c1bb2/types-of-classes-in-C-Sharp1/
+
+## The Five Types of C# Types
+
+https://www.intertech.com/Blog/the-five-types-of-csharp-types/
