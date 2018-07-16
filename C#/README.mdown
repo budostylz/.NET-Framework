@@ -37,3 +37,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.visualstudio.testtools.unitte
 ## How to: Redirect Users to Another Page
 
 https://msdn.microsoft.com/en-us/library/540y83hx.aspx
+
+## Types of Classes in C#
+
+https://www.c-sharpcorner.com/UploadFile/0c1bb2/types-of-classes-in-C-Sharp1/
