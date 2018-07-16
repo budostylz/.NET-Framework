@@ -45,3 +45,7 @@ https://www.c-sharpcorner.com/UploadFile/0c1bb2/types-of-classes-in-C-Sharp1/
 ## The Five Types of C# Types
 
 https://www.intertech.com/Blog/the-five-types-of-csharp-types/
+
+## How C# Reflection Works With Code Examples
+
+https://stackify.com/what-is-c-reflection/
